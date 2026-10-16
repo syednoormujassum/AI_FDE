@@ -1,6 +1,6 @@
-# AI FDE Cohort
+# Python
 
-Personal workspace for the **AI Forward Deployed Engineer** cohort: Python practice, Jupyter tutorials, and a starter FastAPI stack.
+Personal workspace for the  **Python practice, Jupyter tutorials, and a starter FastAPI stack.
 
 Managed with [uv](https://docs.astral.sh/uv/). Requires **Python 3.14**.
 
